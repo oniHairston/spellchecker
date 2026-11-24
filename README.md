@@ -1,6 +1,10 @@
 # A Python Spellchecker Application
 
-This is a simple desktop spell checker built with Python and tkinter. 
+
+<img width="794" height="623" alt="SpellChkProj" src="https://github.com/user-attachments/assets/b1a3bbf5-1bbc-445e-9f54-3fe291da329d" />
+
+
+This is a very simple desktop spell checker built with Python and tkinter! 
 Type in a word and it tells you whether or not it's spelled correctly, or suggets the correct spelling.
 
 
